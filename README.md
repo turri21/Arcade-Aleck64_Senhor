@@ -1,3 +1,7 @@
+-=(Aleck64-X16_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+___
 # Aleck64 arcade platform for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This branch is a special version for Aleck64 support.
