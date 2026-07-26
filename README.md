@@ -1,4 +1,4 @@
--=(Aleck64-X16_Senhor notes)=-
+-=(Aleck64_Senhor notes)=-
 
 Tested: Working Video 720p, 1080p & Sound.
 ___
